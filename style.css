@@ -74,10 +74,11 @@ li {
 }
 
 .photo_ber {
-    height: 300px;
-    margin-top: 100px;
+    height: 400px;
+    width: 250px;
+    margin-top: 70px;
 
-    margin-left: 80px;
+    margin-left: 60px;
 }
 
 .home-content {
@@ -741,7 +742,7 @@ h2 {
 
 }
 
-@media only screen and (max-width:600px) {
+/* @media only screen and (max-width:600px) {
     .main_manu {
         display: none;
     }
@@ -958,4 +959,4 @@ h2 {
         height: 300px;
         width: 150px;
     }
-}
+} */
