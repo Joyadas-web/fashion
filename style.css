@@ -75,7 +75,7 @@ li {
 
 .photo_ber {
     height: 400px;
-    width: 250px;
+    width: 300px;
     margin-top: 40px;
 
     margin-left: 60px;
@@ -249,7 +249,7 @@ h2 {
 }
 
 .top_icon .all_icon i {
-    font-size: 50px;
+    font-size: 40px;
     margin-top: 0 auto;
     padding-top: 10px;
     color: #fff;
@@ -647,6 +647,19 @@ h2 {
 
 }
 
+.footer-div4 {
+    width: 310px;
+    margin-top: 80px;
+    font-size: 20px;
+    font-family: roboto;
+    font-style: italic;
+}
+
+.footer-div4 h3 {
+    color: #e80840;
+}
+
+
 .footer_list {
     margin-bottom: 20px;
 }
@@ -654,6 +667,8 @@ h2 {
 .footer-list li {
     list-style: none;
     font-size: 15px;
+    font-family: roboto;
+    font-style: italic;
 
 }
 
@@ -689,7 +704,7 @@ h2 {
 }
 
 .font {
-    font-size: 20px;
+    font-size: 30px;
     color: #f5f0f2;
     gap: 30px;
 }
