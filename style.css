@@ -68,7 +68,7 @@ li {
     height: 600px;
 }
 
-.main_area {
+.first-area {
     display: flex;
     justify-content: center;
 }
@@ -90,17 +90,18 @@ li {
 .home-content h3 {
     font-size: 26px;
     font-weight: 700;
-    color: #05010e;
+    color: #120110;
 }
 
 .home-content h1 {
     font-size: 40px;
     margin-left: -400px;
-    color: #05010e;
+    color: #f3079c;
 }
 
 .home-content p {
     font-size: 20px;
+    color: #fbf7faea;
 }
 
 .joya2 {
@@ -146,6 +147,10 @@ header img {
     display: none;
 }
 
+.cool {
+    /* position: relative; */
+}
+
 
 .hot {
     display: none;
@@ -161,6 +166,9 @@ header img {
     top: 70px;
     margin-top: 0 auto;
     padding-top: 100px;
+    z-index: 2;
+
+
 }
 
 .cool:hover .hot {
@@ -644,6 +652,7 @@ h2 {
     font-style: italic;
     margin-bottom: 30px;
     margin-top: 20px;
+    margin-left: 10px;
 
 }
 
@@ -657,6 +666,8 @@ h2 {
 
 .footer-div4 h3 {
     color: #e80840;
+    margin-left: 10px;
+    gap: 10px;
 }
 
 
