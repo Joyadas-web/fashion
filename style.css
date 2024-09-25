@@ -599,6 +599,7 @@ h2 {
     width: 800px;
     height: 400px;
     margin: 0 auto;
+
 }
 
 .logo {
@@ -669,6 +670,19 @@ h2 {
     color: rgb(189, 120, 166);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+.salid_sailerS .slick-list {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    height: 286px;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer-area {
@@ -821,13 +835,12 @@ h2 {
     width: 200px;
 }
 
-.slick-list {
+.your-class .slick-list {
     position: relative;
     display: block;
     overflow: hidden;
     margin: 0;
     padding: 0;
-    height: 286px;
     flex-direction: row;
     align-content: center;
     justify-content: center;
