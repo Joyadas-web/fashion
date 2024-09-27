@@ -105,7 +105,7 @@ li {
     color: #fbf7faea;
 }
 
-.joya2 {
+.icon-ber {
     display: flex;
     font-size: 35px;
     text-decoration: none;
@@ -148,12 +148,12 @@ header img {
     display: none;
 }
 
-.cool {
+.muga {
     /* position: relative; */
 }
 
 
-.hot {
+.muga-manu {
     display: none;
     background-color: #c2123e;
     text-align: center;
@@ -172,11 +172,11 @@ header img {
 
 }
 
-.cool:hover .hot {
+.muga:hover .muga-manu {
     display: flex;
 }
 
-.line li:hover a {
+.list-area li:hover a {
     border-bottom: 2px solid #0a0004ea;
 }
 
@@ -284,7 +284,7 @@ h2 {
     height: 700px;
 }
 
-.whirt {
+.content {
     width: 400px;
     font-size: 30px;
     font-weight: 400px;
@@ -294,7 +294,7 @@ h2 {
     font-family: "Handjet", sans-serif;
 }
 
-.black {
+.header-1 {
     width: 500;
     font-size: 60px;
     font-family: "Bebas Neue", sans-serif;
@@ -303,12 +303,12 @@ h2 {
     color: #d4cbc4d3;
 }
 
-.joya {
+.Picture-ber {
     width: 90px;
     height: 90px;
 }
 
-.text {
+.box-area {
     height: 180px;
     width: 400px;
     display: flex;
@@ -316,7 +316,7 @@ h2 {
     border: 4px solid #bb47518c;
 }
 
-.text img {
+.box-area img {
     /* font-size: 10px; */
     margin: 15px;
     height: 75px;
@@ -339,7 +339,7 @@ h2 {
     padding-top: 15px;
 }
 
-.box {
+.second-section {
 
     height: 400px;
     width: 100%;
@@ -489,7 +489,7 @@ h2 {
     }
 }
 
-.header_m2 {
+.third-section {
     flex-direction: column;
     font-family: roboto;
     color: #fff;
@@ -502,12 +502,12 @@ h2 {
     justify-content: center;
 }
 
-.good_bad {
+.container {
     height: 200px;
     background-color: rgba(0, 0, 0, 0.74);
 }
 
-.bad {
+.container-ber {
     display: flex;
     column-gap: 110px;
     margin-top: 0;
@@ -539,7 +539,7 @@ h2 {
     }
 }
 
-.bad li {
+.container-ber li {
     list-style: none;
     font-size: 40px;
     margin: 20px;
@@ -547,7 +547,7 @@ h2 {
     font-style: italic;
 }
 
-.bad a {
+.container-ber a {
     text-decoration: none;
     color: rgb(255, 0, 119);
 }
@@ -560,7 +560,7 @@ h2 {
     /* padding-top: -3px;   */
 }
 
-.header_m {
+.forth-area {
     flex-direction: column;
     font-family: roboto;
     color: rgb(189, 104, 104);
@@ -580,7 +580,7 @@ h2 {
     background-color: rgba(0, 0, 0, 0.558);
 }
 
-.header_m h1 {
+.forth-area h1 {
     color: #782323;
     font-size: 80px;
     font-family: "Bodoni Moda SC", serif;
@@ -588,7 +588,7 @@ h2 {
     margin: 30px;
 }
 
-.family {
+.zigzag-icon {
     margin: 0;
     padding-top: 40px;
     width: 150px;
@@ -650,7 +650,7 @@ h2 {
     margin-bottom: 0;
 }
 
-.Join {
+.fifte-area {
     background-color: hwb(0 0% 76%);
     height: 500px;
 }
@@ -778,27 +778,27 @@ h2 {
     padding-top: 50px;
 }
 
-.font {
+.font-icon {
     font-size: 30px;
     color: #f5f0f2;
     gap: 30px;
 }
 
-.Join {
+.fifte-area {
     background: hsl(334, 93%, 44%);
     display: flex;
     justify-content: space-between;
     text-align: center;
 }
 
-.joy {
+.Picture_area {
     width: 200px;
     height: 100px;
     margin-left: auto;
     margin-top: 0;
 }
 
-.Join h1 {
+.fifte-area h1 {
     font-family: "Fjalla One", sans-serif;
     display: block;
     font-size: 60px;
@@ -811,7 +811,7 @@ h2 {
     font-style: italic;
 }
 
-.logo_1 {
+.logo_ber {
     margin-left: 150px;
     gap: 20px;
     display: flex;
@@ -907,7 +907,7 @@ h2 {
         color: #fbf7faea;
     }
 
-    .joya2 {
+    .icon-ber {
         display: flex;
         font-size: 20px;
         text-decoration: none;
@@ -952,7 +952,7 @@ h2 {
         color: white;
     }
 
-    .box {
+    .second-section {
         height: auto;
         width: 100%;
         display: flex;
@@ -965,11 +965,11 @@ h2 {
 
     }
 
-    .works h1 {
+    /* .works h1 {
         font-size: 15px;
         padding-top: 15px;
 
-    }
+    } */
 
     .picture {
         width: 200px;
@@ -986,7 +986,7 @@ h2 {
         margin-top: 0 auto;
     }
 
-    .bad {
+    .container-ber {
         display: flex;
         column-gap: 20px;
         margin-top: 0;
@@ -1007,7 +1007,7 @@ h2 {
         margin-left: 200px;
     }
 
-    .header_m h1 {
+    .forth-area h1 {
         color: #782323;
         font-size: 40px;
         font-family: "Bodoni Moda SC", serif;
@@ -1015,7 +1015,7 @@ h2 {
         margin: 30px;
     }
 
-    .family {
+    .zigzag-icon {
         margin: 0;
         padding-top: 40px;
         width: 100px;
@@ -1029,7 +1029,7 @@ h2 {
         background-color: rgba(0, 0, 0, 0.386);
     }
 
-    .Join h1 {
+    .fifte-area h1 {
         font-family: "Fjalla One", sans-serif;
         display: block;
         font-size: 25px;
@@ -1042,14 +1042,14 @@ h2 {
         font-style: italic;
     }
 
-    .joy {
+    .Picture_area {
         width: 100px;
         height: 50px;
         margin-left: auto;
         margin-top: 0;
     }
 
-    .logo_1 {
+    .logo_ber {
         margin-left: 90px;
         gap: 10px;
         display: flex;
@@ -1089,7 +1089,7 @@ h2 {
         color: #de127b;
     }
 
-    .last {
+    /* .last {
         height: auto;
         width: 100%;
         display: flex;
@@ -1099,7 +1099,7 @@ h2 {
         padding: 20px;
         background-color: #bd8297;
         color: #fff;
-    }
+    } */
 
     .your-class div img {
         width: 400px;
