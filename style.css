@@ -1183,4 +1183,11 @@ h2 {
         margin-top: 50px;
         flex-wrap: wrap;
     }
+
+    .slick-slide {
+        display: none;
+        float: left;
+        height: 230px;
+        min-height: 1px;
+    }
 }
